@@ -4,3 +4,7 @@ These projects are the implementations of the Udemy course [Docker and Kubernete
 # Project 1
 In project one, a tiny Node.js web application is created, wrapped it inside of a Docker container, and accessed the web application from a browser running on the local machine.
 
+In order to build the image, the following command can be used:
+'''bash
+docker
+'''
