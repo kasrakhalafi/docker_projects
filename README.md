@@ -6,7 +6,7 @@ In project one, a tiny Node.js web application is created, wrapped it inside of 
 
 In order to build the image, the following command is used:
 ```bash
-docker build -t kasrraaaaa/simpleweb .
+docker build -t kasrraaaaa/simpleweb:latest .
 ```
 In order to run the container in this project, the following command is used:
 ```bash
