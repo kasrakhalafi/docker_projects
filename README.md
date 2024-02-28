@@ -15,3 +15,8 @@ docker run -p 8080:8080 kasrraaaaa/simpleweb
 where the first port number is the port number of the host machine and the second port is the port inside the container.
 
 # Project 2
+
+In the second project, a Docker container contains a web application where the number of visits to the server is displayed inside the browser.
+In this project, Docker containers
+for both the Node application and the Redis server are separated, where the Redis server keeps track of the number of visits.
+In order to connect the containers in an automated manner, the docker-compose is used. We also use docker-compose to restart the crashed and stopped containers.
