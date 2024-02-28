@@ -1,5 +1,5 @@
 # docker_projects
-These projects are the implementations of the Udemy course [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/?couponCode=KEEPLEARNING).
+These projects are inspired and implemented based on the Udemy course [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/?couponCode=KEEPLEARNING).
 
 # Project 1
 In the first project, a tiny Node.js web application is created, wrapped inside of a Docker container, and accessed the web application from a browser running on the local machine.
